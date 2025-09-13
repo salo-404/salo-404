@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm $Al0</h1>
 <h3 align="center">💻 C++ Developer | 🛡️ Cybersecurity Learner | 🤖 AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/salo-404/salo-404/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" alt="Hacker GIF" width="500"/>
-</p>
 
 
 ---
