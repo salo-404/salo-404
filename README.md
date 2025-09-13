@@ -1,39 +1,52 @@
-<h1 align="left">Welcome To $@L0  GITHUB</h1>
+<h1 align="center">Hi 👋, I'm $Al0</h1>
+<h3 align="center">💻 C++ Developer | 🛡️ Cybersecurity Learner | 🤖 AI Enthusiast</h3>
 
-###
 
-<p align="left">My name is Salo and I'm a  programmer with some cyber skills, from lebanon.</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🚀 About Me
+- 🔭 Currently working on: **AI project to predict football matches (soccer) using 10+ years of data**  
+- 🌱 Learning: **C++, Cybersecurity, Python, and AI tools**  
+- 👯 Open to collaborate on: **Real-world projects in security, AI, and system development**  
+- 🤝 Looking for help with: **Expanding my skills and building a bright tech future**  
+- 💬 Ask me about: **Cybersecurity, Programming, and AI**  
+- ⚡ Fun fact: **I’m a big FC Barcelona fan**  
 
-###
+📫 Reach me at **salmanbudiab@gmail.com**  
+👨‍💻 More about me & my work: [LinkedIn](https://www.linkedin.com/in/salman-b-114831352/)  
 
-<p align="left">🛠 What I Know<br>Languages: C++, Python,sql,linux,cyber security...<br><br>Currently Learning: Python (with a focus on scripting and building useful tools)<br><br>Interests: Problem solving, building mini-projects, experimenting with logic and automation<br><br>🚧 Projects I’ve Built<br>I've worked on a few fun and practical projects like:<br><br>🔢 A calculator built in C++ with extended functions<br><br>🕹 A Website having a decoding and encoding game <br><br>📁 A simple file organizer using Python<br><br>EA- ea project simulator for an football game <br><br>health app tracker using c#( calculating calories, blood pressure, pulse,....) <br><br><br>🎯 My Goals<br>Master Python for automation and scripting<br><br>Learn how to build real-world applications<br><br>Contribute to open-source projects<br><br>Keep coding fun and creative!<br><br>🎲 Fun Fact<br>Even though I'm still learning, I love challenging myself by building things from scratch — and I enjoy both the process and the bugs along the way.</p>
+---
 
-###
+### 🏗️ Featured Projects  
+- 🩺 **Health App Tracker (C#)** – water, food, calories; sleep & steps; medical vitals  
+- 🔐 **Cyber Decryption & Encryption Game (HTML/JS)** – interactive learning  
+- 🏪 **Supermarket Database (SQL)** – large-scale relational DB design  
+- 🛡️ **Firewall (Python)** – a custom firewall for basic cyber defense  
+- ⚽ **AI Football Match Predictor** *(In Progress)* – predictions using historical data  
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />  
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />  
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-</div>
+---
 
-###
+### 🌍 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/salman-b-114831352/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
