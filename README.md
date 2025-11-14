@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm $Al0</h1>
-<h3 align="center">💻 C++ Developer | 🛡️ Cybersecurity Learner | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻 C++ Developer | 🛡️ Cybersecurity Learner | DevsSecOps </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salo-404/salo-404/9cbe80a9e0ef0f4452866aa0d009227d919852aa/pixel-jeff-matrix-s.gif" alt="Matrix Hacker GIF" width="600"/>
